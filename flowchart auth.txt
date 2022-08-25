@@ -1,0 +1,8 @@
+-กำหนด username, password ลงในตัวแปร str
+-กำหนดจำนวนครั้งการ login ใส่ในตัวแปร int
+-#รับ input username จาก user และ input password จาก user#
+-สร้าง function ให้ login ได้ไม่เกินจำนวนครั้งที่กำหนด หากใส่ username, password ไม่ถูกต้องครบจำนวนครั้งจะแสดงข้อความถูกบล็อค
+   -while ใส่ username, password ผิดไม่เกินจำนวนครั้งที่กำหนด
+            --รับ input username จาก user และ input password จาก user
+     -if ใส่ username, password ผิดเกินจำนวนครั้ง
+                --แสดงข้อความถูกบล็อคจากระบบ
